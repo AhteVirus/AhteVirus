@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait 'Automattic\WooCommerce\Admin\Features\CouponsMovedTrait' not found in <b>/storage/emulated/0/AhteVirus/Website/AhteVirus/Website/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/Marketing.php</b> on line <b>16</b><br>

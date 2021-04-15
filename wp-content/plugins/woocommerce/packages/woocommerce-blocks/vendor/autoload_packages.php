@@ -1,0 +1,6 @@
+<br>
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jpb71565506dd707751e1e839f1a565392\wp_normalize_path() in /storage/emulated/0/AhteVirus/Website/AhteVirus/Website/wp-content/plugins/woocommerce/packages/woocommerce-blocks/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /storage/emulated/0/AhteVirus/Website/AhteVirus/Website/wp-content/plugins/woocommerce/packages/woocommerce-blocks/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jpb71565506dd707751e1e839f1a565392\Path_Processor-&gt;find_directory_with_autoloader('/storage/emulat...', Array)
+#1 /storage/emulated/0/AhteVirus/Website/AhteVirus/Website/wp-content/plugins/woocommerce/packages/woocommerce-blocks/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jpb71565506dd707751e1e839f1a565392\Plugin_Locator-&gt;find_current_plugin()
+#2 /storage/emulated/0/AhteVirus/Website/AhteVirus/Website/wp-content/plugins/woocommerce/packages/woocommerce-blocks/vendo in <b>/storage/emulated/0/AhteVirus/Website/AhteVirus/Website/wp-content/plugins/woocommerce/packages/woocommerce-blocks/vendor/jetpack-autoloader/class-path-processor.php</b> on line <b>73</b><br>

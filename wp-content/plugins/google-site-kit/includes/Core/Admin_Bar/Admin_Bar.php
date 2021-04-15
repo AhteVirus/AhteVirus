@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait 'Google\Site_Kit\Core\Util\Requires_Javascript_Trait' not found in <b>/storage/emulated/0/AhteVirus/Website/AhteVirus/Website/wp-content/plugins/google-site-kit/includes/Core/Admin_Bar/Admin_Bar.php</b> on line <b>26</b><br>

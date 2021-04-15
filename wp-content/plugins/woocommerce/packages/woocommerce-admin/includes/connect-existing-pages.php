@@ -1,0 +1,5 @@
+<br>
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function add_filter() in /storage/emulated/0/AhteVirus/Website/AhteVirus/Website/wp-content/plugins/woocommerce/packages/woocommerce-admin/includes/connect-existing-pages.php:121
+Stack trace:
+#0 {main}
+  thrown in <b>/storage/emulated/0/AhteVirus/Website/AhteVirus/Website/wp-content/plugins/woocommerce/packages/woocommerce-admin/includes/connect-existing-pages.php</b> on line <b>121</b><br>
